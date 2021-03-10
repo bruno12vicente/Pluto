@@ -1,2 +1,4 @@
 # Pluto
- Primeiro repositório versionado
+ Primeiro repositório!
+
+ Foi criado ao assistir uma aula do professor Guanabara.
